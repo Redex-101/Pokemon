@@ -1,0 +1,36 @@
+------------------------------
+Charizard  
+EVs: 275 HP / 110 Atk / 252 SpD  
+- Fire Blast  
+- Roost  
+- Defense Curl
+------------------------------
+Squirtle  
+EVs: 252 HP / 110 Atk / 253 SpD  
+- Blizzard  
+- Iron Defense  
+- Rest
+------------------------------
+Pikachu  
+EVs: 300 HP / 80 Atk / 255 SpD  
+- Extreme Speed  
+- Rest  
+- Calm Mind
+------------------------------
+Geodude   
+EVs: 225 HP / 150 Atk / 4 SpD  
+- Earthquake  
+- Defense Curl  
+- Rest
+------------------------------
+Nathaneellion
+EVs: 235 HP / 130 Atk / 254 SpD
+-Wip
+-Porta-fortress
+-Sleep
+------------------------------
+Rattata @ Focus Sash   
+EVs: 10 HP / ??? Atk / 2 SpD  
+- Cho?!?  
+- Rest  
+- Defense Curl
